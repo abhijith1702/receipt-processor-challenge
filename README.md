@@ -1,8 +1,10 @@
 # Run 
 
-npm start( in terminal)
+npm start (in terminal)
 
-npm test(to run the test cases)
+npm test (to run the test cases)
+
+Swagger: http://localhost:3000/receipts/documentation
 
 # Receipt Processor
 

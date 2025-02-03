@@ -10,7 +10,7 @@ app.use(express.json());
 
 
 // Serve Swagger UI
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+app.use('/receipts/documentation', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 // Routes
 app.post('/receipts/process', ReceiptController.processReceipt);
