@@ -1,3 +1,9 @@
+# Run 
+
+npm start( in terminal)
+
+npm test(to run the test cases)
+
 # Receipt Processor
 
 Build a webservice that fulfils the documented API. The API is described below. A formal definition is provided 
